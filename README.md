@@ -1,2 +1,3 @@
 # hello-world
-Hello World
+Hello World,
+Rubicon is entering the world of Git.
